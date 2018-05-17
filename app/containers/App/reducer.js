@@ -10,7 +10,7 @@
  *   return state.set('yourStateVariable', true);
  */
 
-import { combineReducers } from 'redux-immutable';
+import { combineReducers } from 'redux';
 
 import {
   LOAD_REPOS_SUCCESS,

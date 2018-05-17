@@ -4,7 +4,7 @@
  *
  */
 
-import { combineReducers } from 'redux-immutable';
+import { combineReducers } from 'redux';
 
 import {
   CHANGE_LOCALE,
